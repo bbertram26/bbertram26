@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Bradford Bertram 👋
 
-<!--
-**bbertram26/bbertram26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Graduate of Russell County High School (Class of 2026)  
+  Russell Springs, Kentucky
+- 💻 Computer Science Major at the University of Kentucky  
+  2026 – 2030
+- 🚀 Interested in technology, software development, cybersecurity, and building impactful projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+### University of Kentucky
+**Bachelor’s Degree in Computer Science**  
+2026 – 2030
+
+### Russell County High School
+**Graduate — Class of 2026**  
+Russell Springs, KY
+
+---
+
+## Currently Learning
+- Programming fundamentals
+- Software development
+- Computer systems
+- Web technologies
+- Cybersecurity concepts
+
+---
+
+## Goals
+- Build meaningful software projects
+- Expand my programming knowledge
+- Gain real-world experience in tech
+- Contribute to open-source projects
