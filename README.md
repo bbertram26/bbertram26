@@ -21,15 +21,6 @@ Russell Springs, KY
 
 ---
 
-## Currently Learning
-- Programming fundamentals
-- Software development
-- Computer systems
-- Web technologies
-- Cybersecurity concepts
-
----
-
 ## Goals
 - Build meaningful software projects
 - Expand my programming knowledge
